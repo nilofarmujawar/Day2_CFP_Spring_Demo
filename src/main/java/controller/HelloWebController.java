@@ -1,4 +1,4 @@
-package com.example.cfpday2.controller;
+package controller;
 
 /**
  * import classes
